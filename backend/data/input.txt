@@ -1,0 +1,121 @@
+Artificial intelligence is changing the world. Machine learning allows computers to learn from data. Generative AI can create text, code, reports, and summaries. Transformers use attention to understand context. This project is a Mini Generative AI model built from scratch using PyTorch.
+Artificial intelligence is changing the world.
+Machine learning allows computers to learn from data.
+Generative AI can create text, code, summaries, and reports.
+Transformers use attention to understand context.
+This project is a Mini Generative AI model built from scratch using PyTorch.
+The model learns by predicting the next character in a sequence.
+The tokenizer converts text into numbers.
+The dataset creates training batches.
+The transformer model learns patterns from the text.
+After training, the model can generate new text from a prompt.
+Artificial intelligence is changing the world.
+Machine learning allows computers to learn from data.
+Generative AI can create text, code, summaries, and reports.
+Transformers use attention to understand context.
+This project is a Mini Generative AI model built from scratch using PyTorch.
+The model learns by predicting the next character in a sequence.
+The tokenizer converts text into numbers.
+The dataset creates training batches.
+The transformer model learns patterns from the text.
+After training, the model can generate new text from a prompt.
+Artificial intelligence is changing the world.
+Machine learning allows computers to learn from data.
+Generative AI can create text, code, summaries, and reports.
+Transformers use attention to understand context.
+This project is a Mini Generative AI model built from scratch using PyTorch.
+The model learns by predicting the next character in a sequence.
+The tokenizer converts text into numbers.
+The dataset creates training batches.
+The transformer model learns patterns from the text.
+After training, the model can generate new text from a prompt.
+Artificial intelligence is changing the world.
+Machine learning allows computers to learn from data.
+Generative AI can create text, code, summaries, and reports.
+Transformers use attention to understand context.
+This project is a Mini Generative AI model built from scratch using PyTorch.
+The model learns by predicting the next character in a sequence.
+The tokenizer converts text into numbers.
+The dataset creates training batches.
+The transformer model learns patterns from the text.
+After training, the model can generate new text from a prompt.
+Artificial intelligence is changing the world.
+Machine learning allows computers to learn from data.
+Generative AI can create text, code, summaries, and reports.
+Transformers use attention to understand context.
+This project is a Mini Generative AI model built from scratch using PyTorch.
+The model learns by predicting the next character in a sequence.
+The tokenizer converts text into numbers.
+The dataset creates training batches.
+The transformer model learns patterns from the text.
+After training, the model can generate new text from a prompt.
+Artificial intelligence is changing the world.
+Machine learning allows computers to learn from data.
+Generative AI can create text, code, summaries, and reports.
+Transformers use attention to understand context.
+This project is a Mini Generative AI model built from scratch using PyTorch.
+The model learns by predicting the next character in a sequence.
+The tokenizer converts text into numbers.
+The dataset creates training batches.
+The transformer model learns patterns from the text.
+After training, the model can generate new text from a prompt.
+Artificial intelligence is changing the world.
+Machine learning allows computers to learn from data.
+Generative AI can create text, code, summaries, and reports.
+Transformers use attention to understand context.
+This project is a Mini Generative AI model built from scratch using PyTorch.
+The model learns by predicting the next character in a sequence.
+The tokenizer converts text into numbers.
+The dataset creates training batches.
+The transformer model learns patterns from the text.
+After training, the model can generate new text from a prompt.
+Artificial intelligence is changing the world.
+Machine learning allows computers to learn from data.
+Generative AI can create text, code, summaries, and reports.
+Transformers use attention to understand context.
+This project is a Mini Generative AI model built from scratch using PyTorch.
+The model learns by predicting the next character in a sequence.
+The tokenizer converts text into numbers.
+The dataset creates training batches.
+The transformer model learns patterns from the text.
+After training, the model can generate new text from a prompt.
+Artificial intelligence is changing the world.
+Machine learning allows computers to learn from data.
+Generative AI can create text, code, summaries, and reports.
+Transformers use attention to understand context.
+This project is a Mini Generative AI model built from scratch using PyTorch.
+The model learns by predicting the next character in a sequence.
+The tokenizer converts text into numbers.
+The dataset creates training batches.
+The transformer model learns patterns from the text.
+After training, the model can generate new text from a prompt.
+Artificial intelligence is changing the world.
+Machine learning allows computers to learn from data.
+Generative AI can create text, code, summaries, and reports.
+Transformers use attention to understand context.
+This project is a Mini Generative AI model built from scratch using PyTorch.
+The model learns by predicting the next character in a sequence.
+The tokenizer converts text into numbers.
+The dataset creates training batches.
+The transformer model learns patterns from the text.
+After training, the model can generate new text from a prompt.
+Artificial intelligence is changing the world.
+Machine learning allows computers to learn from data.
+Generative AI can create text, code, summaries, and reports.
+Transformers use attention to understand context.
+This project is a Mini Generative AI model built from scratch using PyTorch.
+The model learns by predicting the next character in a sequence.
+The tokenizer converts text into numbers.
+The dataset creates training batches.
+The transformer model learns patterns from the text.
+After training, the model can generate new text from a prompt.
+Artificial intelligence is changing the world.
+Machine learning allows computers to learn from data.
+Generative AI can create text, code, summaries, and reports.
+Transformers use attention to understand context.
+This project is a Mini Generative AI model built from scratch using PyTorch.
+The model learns by predicting the next character in a sequence.
+The tokenizer converts text into numbers.
+The dataset creates training batches.
+The transformer model learns patterns from the text.
+After training, the model can generate new text from a prompt.
