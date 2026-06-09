@@ -17,7 +17,7 @@ def main():
     model.load_state_dict(checkpoint["model_state_dict"])
     model.eval()
 
-    prompt = "Artificial intelligence"
+    prompt = "<REPORT>\nProject Title: MiniGenAI\n"
 
     context = torch.tensor(
         [tokenizer.encode(prompt)],
@@ -27,8 +27,8 @@ def main():
 
     generated_ids = model.generate(
         context,
-        max_new_tokens=300,
-        temperature=0.4,
+        max_new_tokens=400,
+        temperature=0.3,
         top_k=5
     )
 
