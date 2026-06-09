@@ -4,7 +4,7 @@ __pycache__/
 
 checkpoints/
 outputs/
+data/input.txt
 
 .ipynb_checkpoints/
-
 .env
