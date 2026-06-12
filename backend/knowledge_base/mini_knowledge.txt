@@ -1,0 +1,5 @@
+RAG means Retrieval-Augmented Generation. RAG is a method where an AI system retrieves relevant external information before generating an answer.
+
+Retrieval-Augmented Generation helps a model answer questions using documents, notes, PDFs, or a knowledge base.
+
+A model that does not know a topic from training can still answer if RAG provides relevant context.

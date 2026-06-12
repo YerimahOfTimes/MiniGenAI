@@ -3,4 +3,3 @@ numpy
 tqdm
 fastapi
 uvicorn
-streamlit

@@ -109,9 +109,43 @@ for task, code in code_examples:
         f"<CODE>\nTask: {task}\nCode:\n{code}\n"
     )
 
+answer_examples = [
+    (
+        "What is Retrieval-Augmented Generation?",
+        "RAG means Retrieval-Augmented Generation. It retrieves relevant external information before generating an answer."
+    ),
+    (
+        "What is MiniGenAI?",
+        "MiniGenAI is a Transformer-based generative AI model built from scratch using PyTorch."
+    ),
+    (
+        "What does a checkpoint store?",
+        "A checkpoint stores the trained model weights and tokenizer vocabulary."
+    ),
+    (
+        "Why is word-level tokenization better than character-level tokenization?",
+        "Word-level tokenization helps the model learn full words instead of individual letters, which improves output quality."
+    ),
+]
+
+for question, answer in answer_examples:
+    examples.append(
+        f"""<ANSWER>
+Question: {question}
+Answer: {answer}
+"""
+    )
+
 
 # Repeat examples to increase training signal
-dataset_text = "\n".join(examples * 100)
+clean_examples = []
+
+for example in examples:
+    if "<END>" not in example:
+        example = example.strip() + "\n<END>\n"
+    clean_examples.append(example)
+
+dataset_text = "\n\n".join(clean_examples * 100)
 
 os.makedirs("data", exist_ok=True)
 
